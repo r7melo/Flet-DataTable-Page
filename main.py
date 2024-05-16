@@ -66,7 +66,7 @@ def return_table_rows(filter_col1=""):
     return [
         ft.DataRow(
             cells=[
-                ft.DataCell(ft.Text(t)) 
+                ft.DataCell(ft.Text(t, size=12, color="black")) 
                 for t in data
             ],
         )
