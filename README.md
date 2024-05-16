@@ -1,9 +1,6 @@
-# A flet-datatable-page Flet app
+# Flet-DataTable-Page
+### Modelo de UI usando flet.py
 
-An example of a minimal Flet app.
+[Vídeo de demonstração](https://youtu.be/ppvhgP2plMg?si=clmLHeMuFQosytNG)
 
-To run the app:
-
-```
-flet run [app_directory]
-```
+![](exemplo-gif.gif)
